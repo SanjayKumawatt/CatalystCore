@@ -51,7 +51,7 @@ const Hero = () => {
               <strong className="text-white">CatalystCore Info Private Limited</strong> builds next-generation software powered by AI-driven automation and contextual reasoning.
             </p>
             <p>
-              Our technology understands technical documentation, operational workflows, organizational knowledge, and real-time system data — enabling businesses to work smarter, faster, and with more reliability.
+              Our technology understands technical documentation, operational workflows, organizational knowledge, and real-time system data - enabling businesses to work smarter, faster, and with more reliability.
             </p>
             
             {/* Styled Quote Box */}

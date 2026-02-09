@@ -31,7 +31,7 @@ const features = [
   {
     icon: <Users size={32} />,
     title: "Human + AI Hybrid",
-    description: "CatalystCore is not a replacement — it's an enhancement. It assists teams, preserves expertise, and reduces errors.",
+    description: "CatalystCore is not a replacement - it's an enhancement. It assists teams, preserves expertise, and reduces errors.",
     points: []
   }
 ];
@@ -106,7 +106,7 @@ const WhatMakesDifferent = () => {
             </div>
             <div className="ml-4 text-xs font-mono text-gray-400 flex items-center gap-2">
               <Terminal size={12} />
-              catalyst_core_terminal — v2.4.0
+              catalyst_core_terminal - v2.4.0
             </div>
           </div>
 

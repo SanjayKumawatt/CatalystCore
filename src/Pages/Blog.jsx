@@ -39,7 +39,7 @@ const articles = [
     date: "Oct 18, 2025",
     readTime: "7 min read",
     image: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=1000&auto=format&fit=crop",
-    excerpt: "Multi-agent systems don't just answer questions—they execute tasks. Learn how they coordinate to automate entire workflows."
+    excerpt: "Multi-agent systems don't just answer questions-they execute tasks. Learn how they coordinate to automate entire workflows."
   },
 
   {

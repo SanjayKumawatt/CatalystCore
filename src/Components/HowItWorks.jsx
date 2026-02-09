@@ -39,7 +39,7 @@ const pillars = [
       "“How do these systems interact?”",
       "“What information is missing?”"
     ],
-    footer: "It does not guess — it analyzes."
+    footer: "It does not guess - it analyzes."
   },
   {
     id: "03",

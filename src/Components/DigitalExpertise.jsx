@@ -118,7 +118,7 @@ const DigitalExpert = () => {
             </h3>
             <div className="h-1 w-24 bg-[#d9f99d] mx-auto mb-6 rounded-full" />
             <p className="text-xl md:text-2xl font-bold text-[#d9f99d]">
-              — CatalystCore becomes your always-active digital specialist.
+              - CatalystCore becomes your always-active digital specialist.
             </p>
           </div>
         </motion.div>
